@@ -27,7 +27,7 @@
     "whatsapp-bot",
     "Ibrahimadams"
   ],
-  "author": "Ibrahimadams",
+  "author": "AndalaTheMr",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
